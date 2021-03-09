@@ -8,8 +8,8 @@
 #tree{
   z-index: 100;
   position: absolute;
-  left: 0%;
-  top: 0%;
+  left: 2%;
+  top: 2%;
 }
 *{
     margin:0;
