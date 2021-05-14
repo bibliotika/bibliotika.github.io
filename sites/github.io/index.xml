@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github.io on memo of the net</title>
+    <link>https://kusoikore.github.io/sites/github.io/</link>
+    <description>Recent content in github.io on memo of the net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 May 2021 16:08:37 +0300</lastBuildDate><atom:link href="https://kusoikore.github.io/sites/github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kusoikore_home</title>
+      <link>https://kusoikore.github.io/items/kusoikore-copy/</link>
+      <pubDate>Fri, 14 May 2021 16:08:37 +0300</pubDate>
+      
+      <guid>https://kusoikore.github.io/items/kusoikore-copy/</guid>
+      <description> bla bla testing page
+ </description>
+    </item>
+    
+    <item>
+      <title>kusoikore_home</title>
+      <link>https://kusoikore.github.io/items/kusoikore/</link>
+      <pubDate>Fri, 14 May 2021 16:08:37 +0300</pubDate>
+      
+      <guid>https://kusoikore.github.io/items/kusoikore/</guid>
+      <description> bla bla testing page
+ </description>
+    </item>
+    
+  </channel>
+</rss>
