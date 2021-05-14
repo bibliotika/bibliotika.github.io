@@ -12,6 +12,13 @@ body {
     padding: 0;
 }
 
+div.image {
+	position: fixed;
+	right: 0px;
+	bottom: -5px;
+	z-index: -1;
+}
+
 .item {
     margin-bottom: 0.6rem;
 }
